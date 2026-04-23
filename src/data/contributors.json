@@ -3,7 +3,6 @@
     {
       "name": "Diego Perez",
       "role": "Full Stack Developer",
-      "year": 2025,
       "networks": [
         {
           "network_name": "GitHub",
@@ -25,7 +24,6 @@
     {
       "name": "Melany Ventura",
       "role": "UI/UX Designer",
-      "year": 2025,
       "networks": [
         {
           "network_name": "Behance",
@@ -57,34 +55,11 @@
     {
       "name": "Mauricio Matias Conde",
       "role": "Full Stack Developer",
-      "year": 2025,
       "networks": [
         {
           "network_name": "GitHub",
           "username": "cr0wg4n",
           "url": "https://github.com/cr0wg4n"
-        }
-      ]
-    },
-    {
-      "name": "Miguel Zubieta",
-      "role": "Software Engineer",
-      "year": 2026,
-      "networks": [
-        {
-          "network_name": "GitHub",
-          "username": "m87y2k",
-          "url": "https://github.com/m87y2k"
-        },
-        {
-          "network_name": "LinkedIn",
-          "username": "m87y2k",
-          "url": "https://linkedin.com/in/m87y2k"
-        },
-        {
-          "network_name": "Instagram",
-          "username": "m87.y2k",
-          "url": "https://www.instagram.com/m87.y2k"
         }
       ]
     }
