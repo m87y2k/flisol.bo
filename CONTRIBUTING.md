@@ -56,4 +56,3 @@ Agradecemos a las siguientes personas por sus valiosas contribuciones a este pro
 
 - [Melany Ventura](https://github.com/dev-ventura) - ✨ (Contribucion en Diseño UI/UX Flisol2025 Cochabamba)
 - [Mauricio Conde](https://github.com/cr0wg4n) - ✨ (Contribucion Desarrollo Frontend Flisol2025 Cochabamba)
-- [Miguel Zubieta](https://github.com/m87y2k) - ✨ (Contribucion Flisol2025)

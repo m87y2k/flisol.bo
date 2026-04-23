@@ -8,5 +8,6 @@ export type Network = {
 export type Contributor = {
   name: string;
   role: string;
+  year: number;
   networks: Network[];
 };

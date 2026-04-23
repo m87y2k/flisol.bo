@@ -2,14 +2,20 @@
 // ContributorsList.astro
 import contributors from '@/data/contributors.json'
 import ContributorCard from '@/components/ui/ContributorCard.astro'
+
+const years = [...new Set(contributors.contributors.map((c) => c.year))].sort()
 ---
 
-<section class="contributors-section">
-  <h2 class="section-title">Contribuidores 2025</h2>
-  <div class="contributors-list">
-    {contributors.contributors.map((contributor) => <ContributorCard contributor={contributor} />)}
-  </div>
-</section>
+{years.map((year) => (
+  <section class="contributors-section">
+    <h2 class="section-title">Contribuidores {year}</h2>
+    <div class="contributors-list">
+      {contributors.contributors
+        .filter((c) => c.year === year)
+        .map((contributor) => <ContributorCard contributor={contributor} />)}
+    </div>
+  </section>
+))}
 
 <style>
   .contributors-section {

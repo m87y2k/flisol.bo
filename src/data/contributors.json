@@ -3,6 +3,7 @@
     {
       "name": "Diego Perez",
       "role": "Full Stack Developer",
+      "year": 2025,
       "networks": [
         {
           "network_name": "GitHub",
@@ -24,6 +25,7 @@
     {
       "name": "Melany Ventura",
       "role": "UI/UX Designer",
+      "year": 2025,
       "networks": [
         {
           "network_name": "Behance",
@@ -55,6 +57,7 @@
     {
       "name": "Mauricio Matias Conde",
       "role": "Full Stack Developer",
+      "year": 2025,
       "networks": [
         {
           "network_name": "GitHub",
@@ -66,6 +69,7 @@
     {
       "name": "Miguel Zubieta",
       "role": "Software Engineer",
+      "year": 2026,
       "networks": [
         {
           "network_name": "GitHub",
